@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+제주도에 살고있는 개발자입니다 :D
+
 <!--
 **maeveWoo/maeveWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
